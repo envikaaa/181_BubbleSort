@@ -52,6 +52,14 @@ void input()
         cout << a[k] << "/t";
     }
 
-
     }
+}
+
+int main ()
+{
+    input();
+    BubbleSort();
+    display();
+    return 0;
+
 }
