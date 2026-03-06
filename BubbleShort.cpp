@@ -30,7 +30,19 @@ void input()
         cout << "Masukkan nilai ke- " << 1 + 1 << " : ";
         cin << a[i];
     }
-    void display
+    void display() 
+    {
+    cout << endl;
+    cout << "==========================" << endl;
+    cout << "Elemen array telah terurut" << endl;
+    cout << "==========================" << endl;
+    }
+
+    {
+        for (int j = 0; j <= n - 1 - pass; j++)
+        {
+        }
+    }
 
     }
 }
